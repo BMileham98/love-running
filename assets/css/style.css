@@ -21,6 +21,10 @@ header {
     background-color: lightcoral;
 }
 
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
 main {
     background-color: lightblue;
     /*Main takes up surplux space and pushes footer down */
