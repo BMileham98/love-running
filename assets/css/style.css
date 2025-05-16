@@ -45,6 +45,7 @@ main {
     background-color: lightblue;
     /*Main takes up surplux space and pushes footer down */
     flex: 1 0 auto;
+    margin-top:47px;
 }
 
 footer {
