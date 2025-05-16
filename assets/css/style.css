@@ -48,8 +48,12 @@ main {
     margin-top:47px;
 }
 
-footer {
-    background-color: orange;
+#social-networks {
+    text-align: center;
+    padding:20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
 }
 
 #menu {
@@ -87,6 +91,12 @@ nav {
 
 .nav-toggle-label {
     font: size 2rem;
+}
+
+#social-networks i {
+    font-size:160%;
+    padding:5%;
+    color: #3a3a3a;
 }
 
 /* Media query: tablets and larger (768p+)*/
