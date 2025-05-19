@@ -122,6 +122,31 @@ nav {
     color: #3a3a3a;
 }
 
+#reasons {
+    margin:auto 20px;
+    width:90%;
+}
+
+#reasons h2 {
+    margin-bottom:20px;
+    font-size: 280%;
+    text-align:center;
+}
+
+#benefits-physical > div, #benefits-mental > div {
+    line-height: 20px;
+    margin-bottom:20px;
+}
+
+#benefits p {
+    padding: 0 20px;
+}
+
+hr {
+    border-top:1px solid #3a3a3a;
+    margin:5px 0;
+}
+
 /* Media query: tablets and larger (768p+)*/
 @media screen and (min-width:768px) {
     /*Header*/
